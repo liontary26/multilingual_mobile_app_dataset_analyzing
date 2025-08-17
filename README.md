@@ -1,3 +1,5 @@
+https://www.kaggle.com/datasets/pratyushpuri/multilingual-mobile-app-reviews-dataset-2025/data
+
 # multilingual_mobile_app_dataset_analyzing
 Multilingual Mobile App Reviews Analysis (2025) — Exploratory Data Analysis (EDA) and Sentiment Analysis on a multilingual dataset of mobile app reviews. Includes data cleaning, visualization, demographic breakdowns, and NLP-based sentiment insights.
 # 📱 Multilingual Mobile App Reviews Analysis (2025)
